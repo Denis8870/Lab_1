@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Лабораторна робота №1 — Список завдань</title>
+</head>
+<body>
+  <h1 style="text-align:center">Лабораторна робота №1</h1>
+  <h2>Список завдань</h2>
+  <ul>
+    <li><a href="IvanenkoLab01-1.htm">Завдання 1</a></li>
+    <li><a href="IvanenkoLab01-2.htm">Завдання 2</a></li>
+    <li><a href="IvanenkoLab01-3.htm">Завдання 3</a></li>
+    <li><a href="IvanenkoLab01-4.htm">Завдання 4</a></li>
+    <li><a href="IvanenkoLab01-5.htm">Завдання 5</a></li>
+    <li><a href="IvanenkoLab01-6.htm">Завдання 6</a></li>
+    <li><a href="IvanenkoLab01-7.htm">Завдання 7</a></li>
+    <li><a href="IvanenkoLab01-8.htm">Завдання 8</a></li>
+    <li><a href="IvanenkoLab01-9.htm">Завдання 9</a></li>
+  </ul>
+</body>
+</html>
